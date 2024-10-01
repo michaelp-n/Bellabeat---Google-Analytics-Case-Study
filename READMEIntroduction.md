@@ -1,4 +1,4 @@
-# Google Analytics Case Study - Introducion/Background Thoughts
+# Google Analytics Case Study - Introduction/Background Thoughts
 _Michael Pon - September 2024_
 ## Background
 ### What is this?
