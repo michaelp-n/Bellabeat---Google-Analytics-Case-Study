@@ -17,7 +17,12 @@ prove to myself (and anyone else interested!) that I could develop a basic profi
 There are about 500 lines of code in the R script. It includes the process of me loading the provided data from my selected working directory.
 Transforming the data, and completing some visualizations. You will also find my general commentary on trends and thoughts on the data.
 
-I truthfully wasn't so interested in the case study question as I was with dabbling with R. I transformed and visualized the data using the tidyverse packages, lubridate, dplyr, and reshape.
+I truthfully wasn't so interested in the case study question as I was with dabbling with R. I transformed and visualized the data using the tidyverse packages, lubridate, dplyr, and reshape. 
+You will find that a lot of my energy went into simply transforming and grappling with the functionalities of ggplot/R visuals. 
+
+### What's in the Word Doc?
+The analytics course provided a set of pre written/guiding questions for this casestudy. I went ahead and took the time to jot my thoughts down for each of their questions on a Word doc.
+It generally explores all of the work before the actual analyzing of data. Identify the question, gather context, find data, validate data, etc. 
 
 ### Want to run this code yourself? 
 I used R studio to load, transform, visualize the data. I will be including the data in my repository, you can download the data, save in the folder of choice, and revise the setwd() function to otherwise use my script as it's exactly coded.
