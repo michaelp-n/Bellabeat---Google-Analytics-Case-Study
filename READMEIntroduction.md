@@ -1,5 +1,5 @@
 # Google Analytics Case Study - Introduction/Background Thoughts
-_Michael Pon - September 2024_
+_Michael Pon - October 2024_
 ## Background
 ### What is this?
 This repository contains the script I independently created with R on R Studio to complete the Google Analytics Certificate Case Study.
@@ -19,6 +19,11 @@ Transforming the data, and completing some visualizations. You will also find my
 
 I truthfully wasn't so interested in the case study question as I was with dabbling with R. I transformed and visualized the data using the tidyverse packages, lubridate, dplyr, and reshape. 
 You will find that a lot of my energy went into simply transforming and grappling with the functionalities of ggplot/R visuals. 
+
+### What's the deal with the .Rmd file?
+In order to "complete" the case study I opted to produce an R markdown file/.pdf. Instead of using powerpoint/other Microsoft suite tools to provide my thoughts I wanted to challenge myself to utilize more of the functionalities of R Studio.
+
+In the .rmd file you'll find my code parsed down and thoughts expressed in a way that doesn't require someone to understand R to follow along with. 
 
 ### What's in the Word Doc?
 The analytics course provided a set of pre written/guiding questions for this casestudy. I went ahead and took the time to jot my thoughts down for each of their questions on a Word doc.
