@@ -32,5 +32,9 @@ It generally explores all of the work before the actual analyzing of data. Ident
 ### Want to run this code yourself? 
 I used R studio to load, transform, visualize the data. I will be including the data in my repository, you can download the data, save in the folder of choice, and revise the setwd() function to otherwise use my script as it's exactly coded.
 
+### Data Source 
+Furberg, R., Brinton, J., Keating, M., & Ortiz, A. (2016). Crowd-sourced Fitbit datasets 03.12.2016-05.12.2016 [Data set]. Zenodo. https://doi.org/10.5281/zenodo.53894
 
+Zip used in script/.rmd
+mturkfitbit_export_4.12.16-5.12.16.zip (25.3mb)
 
